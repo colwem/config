@@ -1,0 +1,42 @@
+
+* blurring text
+** css tag text-shadow for chrome firefox and safari
+   text-shadow:0 0 [blur pixels] [color]
+   color: transparent
+   transparent color removes the non shadowed text leaving only the shadow
+   apply class to span
+
+* hangman answering
+** algorithm
+  1 type letter
+  if letter is next letter
+    letter appears in black
+  elif letter is in word
+    letter appears in yellow
+  else 
+    letter appears in red in scratch bucket
+  repeat till word filled
+  
+** experimental
+*** deblur the text
+    As the learner types incorrect letters deblur the text
+*** show num letters?
+** implementation ideas
+*** spans for individual letters
+    each letter is in a span.  change it's appearance from transparent, yellow, red, black
+*** word and alphabet
+    store word as array with pointer to current letter.  dict as array with each cell having 3 properties(letter,entity,value)
+    value = unselected, selected-out-of-order, selected-error, selected-correct
+    unselected = dim and fuzzy
+
+
+* learning algorithm
+
+* instructions
+
+* NLP for matching parallel words
+
+* corpora
+** TODO configure opus
+** TODO python xml api
+

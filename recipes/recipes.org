@@ -1,0 +1,37 @@
+
+* Turkey Brine
+  From Boston Magazine - Grill w3 chef Jay Murray.  Used for Thanksgiving 2011.
+** ingredients
+   + 10 qt. water
+   + 2 1/2 c. kosher salt
+   + 2 c. maple syrup
+   + 20 cloves garlic
+   + 3 oranges, halved
+   + 5 bay leaves
+   + 1/4 c. mixed peppercorns
+   + 1/4 c. coriander seeds
+   + 2 tbsp. smoked paprika
+   + 6 sprigs fresh rosemary
+** instructions
+   1. In large pot over high heat, combine water, salt, maple syrup, and garlic. Squeeze orange halves to extract juice; add juice and fruit brine. Add spices and herbs.
+   2. Boil mixture five minutes. Remove from heat, let cool to room temperature, then chill at least two hours before adding turkey.
+   3. Brine meat in refrigerator for at least eight hours and up to 12.
+   4. Drain, dry completely, then roast according to recipe of choice.
+** TODO adapt for chicken brined in a bag.
+*** TODO figure out salt, sugar water ratio.
+*** TODO adapt brine time.
+
+
+* Penzy spice Broiled Chicken thighs
+** Ingredients
+   + 4 chicken thighs
+   + Penzy's spices
+   + brine liquid
+** Instructions
+   1. Mix brine liquid with spices.
+      + Penzies ___.
+   2. Combine chicken and Brine/spice mix in bag.  Set in refigerator for ___.
+   3. Broil __ inches from broiler for __ min.
+   4. Flip and broil for an aditional __ min.
+
+

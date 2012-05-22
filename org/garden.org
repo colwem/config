@@ -1,0 +1,119 @@
+* General
+** TODO pruning
+   * quince
+   * lilac
+     * miss kim figure out how they grow
+   * rose sharon
+   * smoke bush
+   * wisteria
+
+** TODO clear off driveway
+   CLOCK: [2012-05-17 Thu 17:09]--[2012-05-17 Thu 18:29] =>  1:20
+** DONE thin perenials in planter near deck
+   CLOSED: [2012-05-17 Thu 14:53] SCHEDULED: <2012-05-17 Thu>
+   - State "DONE"       from "TODO"       [2012-05-17 Thu 14:53]
+   CLOCK: [2012-05-17 Thu 14:39]--[2012-05-17 Thu 14:53] =>  0:14
+** TODO neem oil (aphid control)
+   spinach and beet leaf miners,  pears, apples, cherry.
+** TODO leaf miner control
+   neem oil or spinosad.
+** DONE clear gutter above impatiens
+   CLOSED: [2012-05-17 Thu 14:39] SCHEDULED: <2012-05-17 Thu>
+   - State "DONE"       from "TODO"       [2012-05-17 Thu 14:39]
+   CLOCK: [2012-05-17 Thu 14:25]--[2012-05-17 Thu 14:39] =>  0:14
+** TODO spray dirt off of impatiens
+** TODO learn how to train impatiens
+** DONE why is chard dieing
+   CLOSED: [2012-05-17 Thu 14:23] SCHEDULED: <2012-05-17 Thu>
+   - State "DONE"       from "TODO"       [2012-05-17 Thu 14:23]
+** DONE pole up the irises
+   SCHEDULED: <2012-05-15 Tue> CLOSED: [2012-05-16 Wed 11:08]
+   - State "DONE"       from "TODO"       [2012-05-16 Wed 11:08]
+   CLOCK: [2012-05-16 Wed 09:46]--[2012-05-16 Wed 10:01] =>  0:15
+** TODO sift compost
+** TODO make sifter
+** WAIT make post for pool cover
+   - State "WAIT"       from "TODO"       [2012-05-13 Sun 23:39] \\
+     Pool cover needs to be removed first
+** TODO espalier the pair trees
+** TODO tomato cages
+* Mulching beds 
+** Street Side garden
+*** DONE Weeding front garden
+    CLOSED: [2012-05-12 Sat 15:44] SCHEDULED: <2012-05-12 Sat>
+    - State "DONE"       from "TODO"       [2012-05-12 Sat 15:44]
+   CLOCK: [2012-05-12 Sat 14:24]--[2012-05-12 Sat 15:44] =>  1:20
+*** TODO edging
+*** TODO weedmat
+*** TODO mulch
+** front walkway sides
+*** DONE weeding
+    CLOSED: [2012-05-18 Fri 23:05] SCHEDULED: <2012-05-18 Fri>
+    - State "DONE"       from "TODO"       [2012-05-18 Fri 23:05]
+    CLOCK: [2012-05-18 Fri 15:51] -- [2012-05-18 Fri 18:30]
+*** TODO edging
+*** TODO weedmat
+*** TODO soaker hose
+*** TODO mulching
+** house front
+*** TODO weeding
+*** TODO edging
+*** TODO weedmat
+*** TODO soaker hose
+*** TODO mulching
+** blueberries
+*** TODO mulching
+*** TODO 
+** pool side bed
+*** DONE weeding
+    CLOSED: [2012-05-18 Fri 23:05] SCHEDULED: <2012-05-19 Sat>
+    - State "DONE"       from "TODO"       [2012-05-18 Fri 23:05]
+    CLOCK: [2012-05-18 Fri 12:51]--[2012-05-18 Fri 23:05] => 10:14
+    CLOCK: [2012-05-17 Thu 14:54]--[2012-05-17 Thu 15:01] =>  0:07
+*** TODO edging
+*** TODO weedmat
+*** TODO mulching
+** TODO oak tree bed
+*** DONE weeding
+    CLOSED: [2012-05-19 Sat 17:36] SCHEDULED: <2012-05-19 Sat>
+    CLOCK: [2012-05-19 Sat 11:37]--[2012-05-19 Sat 17:11] =>  6:01
+    - State "DONE"       from "TODO"       [2012-05-19 Sat 17:36]
+*** DONE edging
+    CLOSED: [2012-05-19 Sat 17:36] SCHEDULED: <2012-05-19 Sat>
+    - State "DONE"       from "TODO"       [2012-05-19 Sat 17:36]
+
+* Tomato self watering bin
+** DONE Get vermiculite
+    CLOSED: [2012-05-11 Fri 17:16]
+** DONE measure peat
+    CLOSED: [2012-05-11 Fri 17:16]
+*** DONE maybe get peat
+     CLOSED: [2012-05-11 Fri 17:16]
+** DONE get compost
+    CLOSED: [2012-05-11 Fri 17:15]
+** DONE mix soil-
+    CLOSED: [2012-05-11 Fri 20:32]
+
+* Hose watering system
+** TODO buy connectors
+*** DONE research price and options on the internet
+    CLOSED: [2012-05-18 Fri 01:21] SCHEDULED: <2012-05-16 Wed>
+    - State "DONE"       from "TODO"       [2012-05-18 Fri 01:21]
+
+** TODO cut the hose
+** TODO put on connectors
+
+* lawn
+** DONE mow lawn
+   CLOSED: [2012-05-12 Sat 14:05] SCHEDULED: <2012-05-12 Sat>
+   - State "DONE"       from "TODO"       [2012-05-12 Sat 14:05]
+   CLOCK: [2012-05-12 Sat 13:32]--[2012-05-12 Sat 14:05] =>  0:33
+   CLOCK: [2012-05-12 Sat 12:07]--[2012-05-12 Sat 13:31] =>  1:24
+** TODO weed lawn
+** TODO aerate lawn
+** DONE mow lawn
+   CLOSED: [2012-05-18 Fri 23:06] SCHEDULED: <2012-05-17 Thu>
+   - State "DONE"       from "TODO"       [2012-05-18 Fri 23:06]
+   CLOCK: [2012-05-18 Fri 11:53]--[2012-05-18 Fri 12:51] =>  0:58
+   CLOCK: [2012-05-18 Fri 11:35]--[2012-05-18 Fri 11:49] =>  0:14
+   CLOCK: [2012-05-17 Thu 16:13]--[2012-05-17 Thu 17:08] =>  0:55

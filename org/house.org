@@ -1,0 +1,81 @@
+* house
+** TODO fix basement bulkhead
+** TODO put up front door screen
+** TODO Gorrila tape on the recycling container
+** TODO Bicycle maintenance
+
+** TODO Put out trash
+   SCHEDULED: <2012-05-24 Thu +7d>
+   - State "DONE"       from "TODO"       [2012-05-18 Fri 01:21]
+   :PROPERTIES:
+   :LAST_REPEAT: [2012-05-18 Fri 01:21]
+   :END:
+** TODO Clean basement
+   SCHEDULED: <2012-05-19 Sat +2d/4d>
+** TODO Clean Garage
+   SCHEDULED: <2012-05-21 Mon +2d/4d>
+** TODO paint house
+*** DONE cut in mouldings
+    SCHEDULED: <2012-05-14 Mon> CLOSED: [2012-05-16 Wed 11:03]
+    - State "DONE"       from "TODO"       [2012-05-16 Wed 11:03]
+    CLOCK: [2012-05-16 Wed 10:01]--[2012-05-16 Wed 11:02] =>  1:01
+*** TODO second coat with roller of closet moulding
+*** TODO second coat with brush of closet moulding + closet door baseboard
+*** TODO second coat closet door baseboard
+*** DONE tape closet moldings
+    SCHEDULED: <2012-05-14 Mon> CLOSED: [2012-05-14 Mon 16:01]
+    - State "DONE"       from "TODO"       [2012-05-14 Mon 16:01]
+    CLOCK: [2012-05-14 Mon 15:31]--[2012-05-14 Mon 16:01] =>  0:30
+    CLOCK: [2012-05-14 Mon 13:08]--[2012-05-14 Mon 13:30] =>  0:22
+*** DONE fill holes in closet moldings
+    SCHEDULED: <2012-05-14 Mon> CLOSED: [2012-05-14 Mon 14:13]
+    - State "DONE"       from "TODO"       [2012-05-14 Mon 14:13]
+    CLOCK: [2012-05-14 Mon 12:29]--[2012-05-14 Mon 13:07] =>  0:38
+*** DONE paint insides of door rails
+    SCHEDULED: <2012-05-14 Mon> CLOSED: [2012-05-14 Mon 17:32]
+    - State "DONE"       from "TODO"       [2012-05-14 Mon 17:32]
+    CLOCK: [2012-05-14 Mon 16:18]--[2012-05-14 Mon 17:31] =>  1:13
+*** TODO touch up ceiling
+*** TODO touch up wallsxs
+*** TODO remove tape
+
+
+** DONE spray paint the white outdoor tray with bronze
+   CLOSED: [2012-05-13 Sun 15:34]
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 15:34]
+   CLOCK: [2012-05-13 Sun 12:45]--[2012-05-13 Sun 14:31] =>  1:46
+** DONE set up compressor for moms upholstery
+   CLOSED: [2012-05-13 Sun 15:34]
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 15:34]
+   CLOCK: [2012-05-13 Sun 14:45]--[2012-05-13 Sun 15:10] =>  0:00
+** DONE shop for mothers day
+   CLOSED: [2012-05-13 Sun 15:34]
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 15:34]
+   CLOCK: [2012-05-13 Sun 10:25]--[2012-05-13 Sun 11:15] =>  0:00
+* Gift for Mom
+
+** DONE upholstery horses
+   CLOSED: [2012-05-13 Sun 15:54]
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 15:54]
+   Horses with raised edges for her upholstery
+*** DONE drill holes in wood 
+    CLOSED: [2012-05-12 Sat 17:23] SCHEDULED: <2012-05-12 Sat>
+    - State "DONE"       from "TODO"       [2012-05-12 Sat 17:23]
+    CLOCK: [2012-05-12 Sat 16:19]--[2012-05-12 Sat 17:22] =>  1:03
+    CLOCK: [2012-05-12 Sat 15:48]--[2012-05-12 Sat 16:03] =>  0:15
+    measure out on the wood the locations to drill the holes so that it can be mounted to the metal folding saw horses
+    
+*** DONE get 3/8" carriage bolts
+    DEADLINE: <2012-05-13 Sun> SCHEDULED: <2012-05-13 Sun> CLOSED: [2012-05-13 Sun 15:27]
+    - State "DONE"       from "TODO"       [2012-05-13 Sun 15:27]
+*** DONE fix boards onto saw horses.
+    DEADLINE: <2012-05-13 Sun> SCHEDULED: <2012-05-13 Sun> CLOSED: [2012-05-13 Sun 15:27]
+    CLOCK: [2012-05-13 Sun 12:45]--[2012-05-13 Sun 14:31] =>  1:46
+    - State "DONE"       from "TODO"       [2012-05-13 Sun 15:27]
+
+* Bicycle maintenance
+
+* stuff  
+** DONE watch mad men
+   SCHEDULED: <2012-05-14 Mon> CLOSED: [2012-05-14 Mon 15:27]
+   - State "DONE"       from "TODO"       [2012-05-14 Mon 15:27]

@@ -1,0 +1,65 @@
+
+* Machine learning
+
+** review questions
+*** DONE IV
+    CLOSED: [2012-05-12 Sat 17:26] DEADLINE: <2012-05-12 Sat>
+    - State "DONE"       from "TODO"       [2012-05-12 Sat 17:26]
+    CLOCK: [2012-05-12 Sat 16:15]--[2012-05-12 Sat 16:18] =>  0:03
+*** DONE V
+    CLOSED: [2012-05-12 Sat 17:56] DEADLINE: <2012-05-12 Sat>
+    - State "DONE"       from "TODO"       [2012-05-12 Sat 17:56]
+    CLOCK: [2012-05-12 Sat 17:26]--[2012-05-12 Sat 17:56] =>  0:30
+*** TODO VI
+    DEADLINE: <2012-05-19 Sat>
+    CLOCK: [2012-05-16 Wed 17:02]--[2012-05-16 Wed 18:20] =>  1:18
+*** TODO VII
+    DEADLINE: <2012-05-19 Sat>
+*** TODO VII
+    DEADLINE: <2012-05-26 Sat>
+** Programming Exercises
+*** DONE IV
+    DEADLINE: <2012-05-12 Sat> CLOSED: [2012-05-13 Sun 15:28]
+    - State "DONE"       from "TODO"       [2012-05-13 Sun 15:28]
+*** TODO VII
+    DEADLINE: <2012-05-19 Sat>
+*** TODO VII
+    DEADLINE: <2012-05-26 Sat>
+
+* Computer Vision
+
+** Quiz
+
+** Assignments
+*** TODO Assignment 1 
+    DEADLINE: <2012-05-15 Tue> 
+    CLOCK: [2012-05-16 Wed 16:00]--[2012-05-16 Wed 16:56] =>  0:56
+    CLOCK: [2012-05-15 Tue 15:26]--[2012-05-15 Tue 16:00] =>  0:34
+    CLOCK: [2012-05-15 Tue 11:03]--[2012-05-15 Tue 13:00] =>  1:57
+
+* Compilers
+** Quizzes
+
+*** DONE Quiz #1
+    DEADLINE: <2012-05-14 Mon> CLOSED: [2012-05-15 Tue 10:25]
+    - State "DONE"       from "TODO"       [2012-05-15 Tue 10:25]
+*** TODO Quiz #2
+    DEADLINE: <2012-05-21 Mon>
+
+** Programming Assignments
+*** TODO PA1
+    DEADLINE: <2012-05-17 Thu>
+    CLOCK: [2012-05-16 Wed 07:32]--[2012-05-16 Wed 09:01] =>  1:29
+    CLOCK: [2012-05-15 Tue 16:01]--[2012-05-15 Tue 19:24] =>  3:23
+    lexical analizer
+**** DONE Figure out line numbers
+     CLOSED: [2012-05-15 Tue 22:59]
+     - State "DONE"       from "TODO"       [2012-05-15 Tue 22:59]
+
+*** TODO PA2
+    DEADLINE: <2012-05-25 Fri>
+
+*** TODO Deduce It 2
+    DEADLINE: <2012-05-21 Mon>
+
+

@@ -1,0 +1,117 @@
+
+* Exercise
+** TODO Biceps curls
+   SCHEDULED: <2012-05-18 Fri .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-14 Mon 15:27]
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-14 Mon 15:27]
+   :END:
+** TODO Pushups
+   SCHEDULED: <2012-05-22 Tue .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-18 Fri 15:23]
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 17:46]
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-18 Fri 15:23]
+   :END:
+** TODO Lat row
+   SCHEDULED: <2012-05-21 Mon .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-17 Thu 15:36]
+   CLOCK: [2012-05-17 Thu 15:01]--[2012-05-17 Thu 15:36] =>  0:35
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-17 Thu 15:36]
+   :END:
+** TODO Shoulder press
+   SCHEDULED: <2012-05-20 Sun .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-16 Wed 15:33]
+   - State "DONE"       from "TODO"       [2012-05-12 Sat 18:49]
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-16 Wed 15:33]
+   :END:
+** TODO Ad crunches
+   SCHEDULED: <2012-05-18 Fri .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-14 Mon 15:27]
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-14 Mon 15:27]
+   :END:
+** TODO Back raises
+   SCHEDULED: <2012-05-21 Mon .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-17 Thu 15:36]
+   - State "DONE"       from "TODO"       [2012-05-12 Sat 18:49]
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-17 Thu 15:36]
+   :END:
+** TODO Calf raises
+   SCHEDULED: <2012-05-16 Wed .+4d/5d>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Lunges
+   SCHEDULED: <2012-05-22 Tue .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-05-18 Fri 15:23]
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 17:46]
+   CLOCK: [2012-05-13 Sun 15:57]--[2012-05-13 Sun 17:27] =>  1:30
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-18 Fri 15:23]
+   :END:
+** TODO Walk
+   SCHEDULED: <2012-05-20 Sun .+2d/5d>
+   - State "DONE"       from "TODO"       [2012-05-18 Fri 15:23]
+   CLOCK: [2012-05-18 Fri 13:58]--[2012-05-18 Fri 15:23] =>  1:25
+   - State "DONE"       from "TODO"       [2012-05-16 Wed 09:46]
+   CLOCK: [2012-05-16 Wed 09:11]--[2012-05-16 Wed 09:45] =>  0:34
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 17:46]
+   CLOCK: [2012-05-13 Sun 15:57]--[2012-05-13 Sun 17:27] =>  1:30
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-18 Fri 15:23]
+   :END:
+** TODO Bike
+   SCHEDULED: <2012-05-17 Thu .+2d/5d>
+   - State "DONE"       from "TODO"       [2012-05-15 Tue 15:25]
+   CLOCK: [2012-05-15 Tue 13:45]--[2012-05-15 Tue 2:24] =>  0:39
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-15 Tue 15:25]
+   :END:
+
+
+* Hygene
+
+** TODO Shave
+   SCHEDULED: <2012-05-17 Thu .+3d>
+   - State "DONE"       from "TODO"       [2012-05-14 Mon 16:14]
+   CLOCK: [2012-05-14 Mon 16:01]--[2012-05-14 Mon 16:14] =>  0:13
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-14 Mon 16:14]
+   :END:
+** TODO Laundry
+   SCHEDULED: <2012-05-20 Sun .+6d/8d>
+   - State "DONE"       from "TODO"       [2012-05-13 Sun 01:03]
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-13 Sun 01:03]
+   :END:
+** TODO Clean room
+   SCHEDULED: <2012-05-22 Tue .+6d/8d>
+   - State "DONE"       from "TODO"       [2012-05-16 Wed 13:26]
+   CLOCK: [2012-05-16 Wed 11:27]--[2012-05-16 Wed 13:26] =>  1:59
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-16 Wed 13:26]
+   :END:
+** TODO Cut nails
+   SCHEDULED: <2012-05-20 Sun .+6d/9d>
+   - State "DONE"       from "TODO"       [2012-05-14 Mon 11:45]
+   CLOCK: [2012-05-14 Mon 10:20]--[2012-05-14 Mon 10:28] =>  0:08
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2012-05-14 Mon 11:45]
+   :END:

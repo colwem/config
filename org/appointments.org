@@ -1,0 +1,16 @@
+
+* Doctor Dujmic <2012-06-06 Wed 10:00am>
+* Dr LoCicero <2012-05-21 Mon 14:00>
+
+* Dr LoCicero <2012-06-12 Tue 10:00>
+
+* TODO take pill
+  SCHEDULED: <2012-05-21 Mon +1d>
+  - State "DONE"       from "TODO"       [2012-05-20 Sun 10:10]
+  - State "DONE"       from "TODO"       [2012-05-19 Sat 17:36]
+  - State "DONE"       from "TODO"       [2012-05-17 Thu 12:41]
+  - State "DONE"       from "TODO"       [2012-05-16 Wed 09:10]
+  - State "DONE"       from "TODO"       [2012-05-15 Tue 10:39]
+  :PROPERTIES:
+  :LAST_REPEAT: [2012-05-20 Sun 10:10]
+  :END:

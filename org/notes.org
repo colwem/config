@@ -1,0 +1,28 @@
+* Tasks
+
+* lunch
+  <2012-05-12 Sat 14:09>--<2012-05-12 Sat 14:21>
+
+* Breakfast
+  <2012-05-13 Sun 11:40>--<2012-05-13 Sun 12:30>
+
+* dishes
+  <2012-05-13 Sun 15:43>--<2012-05-13 Sun 15:52>
+  
+* DONE bring aerogarden top downstairs 
+  SCHEDULED: <2012-05-16 Wed> CLOSED: [2012-05-16 Wed 11:27]
+  - State "DONE"       from "TODO"       [2012-05-16 Wed 11:27]
+* DONE look at keureg box
+  SCHEDULED: <2012-05-16 Wed> CLOSED: [2012-05-16 Wed 16:00]
+  - State "DONE"       from "TODO"       [2012-05-16 Wed 16:00]
+* TODO finish basils christmas present
+* TODO Put mat in dinning room
+  SCHEDULED: <2012-05-18 Fri 23:00 +1d>
+  - State "DONE"       from "TODO"       [2012-05-18 Fri 23:03]
+  - State "DONE"       from "TODO"       [2012-05-18 Fri 01:21]
+  :PROPERTIES:
+  :LAST_REPEAT: [2012-05-18 Fri 23:03]
+  :END:
+* TODO Set up github for conf scripts
+* TODO watch downton abby
+* TODO set up capture and refile
